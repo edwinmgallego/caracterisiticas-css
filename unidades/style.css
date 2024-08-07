@@ -1,0 +1,19 @@
+html{
+    
+}
+
+.container1{
+width: 600px;
+height: 400px;
+background: salmon;
+border: 1px solid black;
+h1{
+    font-size: 4rem;
+
+}
+h2{
+font-size: medium;
+}
+p{
+
+}

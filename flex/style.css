@@ -1,0 +1,22 @@
+.container{
+    font-size: 1 rem;
+    display: flex; /*definimos  nuestro elemento  flexbox*/
+    flex-direction: row; /*alineamos para que sean  filas*/
+    flex-wrap: wrap;
+    width: 250px;
+    height: 500px;
+    border: 10px solid plum;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+
+}
+#uno{
+
+}
+#dos{
+
+}
+#tres{
+
+}
